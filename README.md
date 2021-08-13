@@ -1,0 +1,2 @@
+# github-gomycode
+essai simple
